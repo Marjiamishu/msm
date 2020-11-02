@@ -1,0 +1,130 @@
+h3{
+	color:red;
+	font-size:50px;
+	background-color:green;
+	border:5px solid blue
+}
+.h4{
+	color:brown;
+	font-size:60px;
+	
+}
+#h4{
+	color:yellow;
+	font-size:40px;
+	background-color:red
+}
+p{
+	color:yellow;
+	font-size:50px;
+	background-color:red;
+	height:10px;
+
+}
+#h6{
+	font-size:30pt;
+	color:#000000;
+	background-color:red;
+	min-height:10px;
+
+}
+h5{
+	
+	font-size:80%;
+	color:#ffffff
+}
+.h5{
+	font-size:30pt;
+	color:#000000;
+	background-color:red;
+	height:10px;
+}
+.ALU{
+	background-color:blue;
+	min-height:150px;
+	
+}
+.WRAPPER{
+	
+	border:5px solid red;
+	overflow:hidden;
+}
+.CPU{
+	background-color:brown;
+	min-height:80px;
+	width:60%;
+	float:left;
+}
+.MEMORY{
+	background-color:green;
+	min-height:80px;
+	width:39%;
+	float:right;
+	
+}
+
+.IO{
+	background-color:black;
+	min-height:150px;
+	
+	
+}
+.RIM{
+	background-color:orange;
+	min-height:150px;
+	
+}
+.WRAPER{
+	
+	border:5px solid red;
+	overflow:hidden;
+	
+}
+.PAGE{
+	background-color:brown;
+	min-height:150px;
+	width:32.5%;
+	border:5px solid red;
+	float:left;
+}
+
+.DISTA{
+	background-color:black;
+	min-height:150px;
+	
+	
+}
+.marjia{
+	background-color:yellow;
+	min-height:100px;
+	
+}
+.WRAAAP{
+	border:5px solid tomato;
+	overflow:hidden;
+}
+.sadia{
+	background-color:blue;
+	min-height:100px;
+	width:24.2%;
+	border:5px solid black;
+	float:left;
+
+}
+.mishu{
+	background-color:green;
+	min-height:100px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
